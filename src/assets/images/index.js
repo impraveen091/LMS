@@ -1,0 +1,17 @@
+export default {
+  onBordingImg1: require('./onBordingImg1.png'),
+  onBordingImg2: require('./onBordingImg2.png'),
+  onBordingImg3: require('./onBordingImg3.png'),
+  dashboardBanner: require('./dashboard_banner.png'),
+  course1: require('./course1.png'),
+  course2: require('./course2.png'),
+  course3: require('./course3.png'),
+  course4: require('./course4.png'),
+  course5: require('./course5.png'),
+  course6: require('./course6.png'),
+  profile1: require('./profile1.png'),
+  // profile2: require('./profile2.png'),
+  bank: require('./bank.png'),
+  eye: require('./eye.png'),
+  eyeClosed: require('./eyeClosed.png'),
+};
